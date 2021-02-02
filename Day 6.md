@@ -17,7 +17,10 @@ Today is a results collecting day.
 - get raw results of 10 datasets after applying RDP4 method
 
 
-## method comparison
+## evening 
+- get se and sp of RDP4
+
+- method comparison between 3SEQ and RDP4
 
 
 
