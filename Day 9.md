@@ -7,7 +7,7 @@ Today is a submit spartan jobs day.
 
 
 ## afternoon 3:00--6:00
-
+- submit RDP jobs
 - submit indel rate jobs
 - submit indel size jobs
 - submit indel rate jobs-protein
