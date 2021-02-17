@@ -1,6 +1,6 @@
 Today is a spartan day. 
 
-
+## noon meeting with supervisors
 confirm what I should do in the following days in this month, except finishing the method comparison
 
 ## afternoon
