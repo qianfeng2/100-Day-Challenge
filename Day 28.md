@@ -1,12 +1,12 @@
-Today is a meeting day. 
+Today is a mosaic day. 
 
 ## morning
 
 - RAPR perl script
 
-- review all meeting materials
+- mosaic improve
 
-## noon meeting
+
 
 ## afternoon
 
