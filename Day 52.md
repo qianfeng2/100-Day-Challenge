@@ -10,7 +10,8 @@ Today is a paper 2 day.
 - python exe
 
 
-
+## evening
+- look method of my version and final version, also Yao-ban's comments
 
 
 
