@@ -7,12 +7,12 @@ Today is a paper 2 day.
 - which are important, which are not
 
 ## afternoon
-- python exe
-
+- prepare the structure (key sentence of each paragraph) and figure in Methods
+- look method of final version and my versions, also supervisors' comments
+- modify the structre
 
 ## evening
-- look method of my version and final version, also Yao-ban's comments
-
+- siscan
 
 
 
