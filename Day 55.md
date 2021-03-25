@@ -7,7 +7,13 @@ Everyday should extend youself.
 
 
 ## afternoon
+- continue ups writing
 - manuscript_jianxi zhao
+- continue ups writing
+
+## evening
+- recall my file
+
 
 
 
