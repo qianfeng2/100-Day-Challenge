@@ -3,6 +3,7 @@
 
 
 ## afternoon
+- copy the supple text
 - draw figure
 
 
