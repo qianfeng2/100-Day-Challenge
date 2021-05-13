@@ -6,6 +6,8 @@
 
 
 ## afternoon
+- calculate the probs in MH data corresponding to recombination happens more frequently in the same ups group
+- get HB in ufo
 - length effect
 
 
